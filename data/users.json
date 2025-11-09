@@ -1,11 +1,30 @@
 [
     {
         "id": 1,
-        "nome": "Nome do Usuário",
-        "email": "usuario@email.com",
+        "nome": "José",
+        "email": "jose123@email.com",
         "senha": "123456",
         "idade": 21,
         "sexo": "Masculino",
         "data_nascimento": "12-01-1995"
+    },
+    {
+        "id": 2,
+        "nome": "Luiza",
+        "email": "luiza@email.com",
+        "senha": "123456",
+        "idade": 19,
+        "sexo": "Feminino",
+        "data_nascimento": "12-01-1995"
+    },
+    {
+        "id": 3,
+        "nome": "Carlos",
+        "email": "carlos@email.com",
+        "senha": "123456",
+        "idade": 25,
+        "sexo": "Masculino",
+        "data_nascimento": "12-01-1995"
     }
 ]
+
